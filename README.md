@@ -4,8 +4,8 @@
 
 ## ディレクトリ構成
 
-src/
-├── cpp/
-│ ├── learning/ # 強化学習やに関するC++実装
-│ └── search/ # 探索アルゴリズム（Expectimax, MCTSなど）に関するC++実装
-└── python/ # 分析ツールなどPythonによる実装
+src/  
+├── cpp/  
+│ ├── learning/ # 強化学習やに関するC++実装  
+│ └── search/ # 探索アルゴリズム（Expectimax, MCTSなど）に関するC++実装  
+└── python/ # 分析ツールなどPythonによる実装  
